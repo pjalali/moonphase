@@ -1,16 +1,22 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:300');
 
-*{
-  text-align: center;
-  font-size: 54px;
+body{
   font-family: 'Roboto', sans-serif;
-  color: #FFFFFF;
   background-color: #000000;
-  margin:auto;
-  margin-top: 10px;
-
-
   -webkit-animation: fadein 2s;
+}
+
+div{
+	width: auto;
+	height:auto;
+	margin: auto;
+}
+
+p{
+	font-size: 54px;
+	color: #FFFFFF;
+	text-align: center;
+	margin: auto;
 }
 
 @-webkit-keyframes fadein {
