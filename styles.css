@@ -58,11 +58,11 @@ p{
 }
 
 /*FIRST QUARTER*/
-.firstQuarter{
+.thirdQuarter{
   border-radius: 50%;
   width: 200px;
   height: 200px;
-  background-color: linear-gradient(90deg, #070707 50%, #FFFFFF 50%);
+  background: linear-gradient(90deg, #070707 50%, #FFFFFF 50%);
 }
 
 /*WAXING GIBBOUS*/
@@ -83,7 +83,6 @@ p{
   bottom:-1px;
   left:-1px;
 }
-
 
 /*FULL MOON*/
 .full {
@@ -117,7 +116,7 @@ p{
   border-radius: 50%;
   width: 200px;
   height: 200px;
-  background-color: linear-gradient(90deg, #FFFFFF 50%, #070707 50%);
+  background: linear-gradient(90deg, #FFFFFF 50%, #070707 50%);
 }
 
 /*WANING CRESCENT*/
